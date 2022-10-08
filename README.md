@@ -4,12 +4,13 @@
 
 In the project directory, you can run:
 
-## Installation
+Installation
 
-### npm install
+### `npm install`
 
 ### `npm run dev`
 
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+To learn Redux,check out the [Redux documentation](https://redux.js.org/).
