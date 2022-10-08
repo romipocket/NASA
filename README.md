@@ -2,13 +2,14 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
-
 Installation
 
 ### `npm install`
 
+In the project directory, you can run:
+
 ### `npm run dev`
+
 
 ## Learn More
 
